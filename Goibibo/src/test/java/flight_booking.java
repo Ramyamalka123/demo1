@@ -50,6 +50,7 @@ public class flight_booking {
 		public static void main(String[] args) throws InterruptedException {
 			Goibibo obj=new Goibibo();
 			obj.LaunchAUT();
+		//Thread.sleep(2000);
 			//obj.get();
 		}
 		}
